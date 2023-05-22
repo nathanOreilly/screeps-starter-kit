@@ -3,6 +3,7 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
+    "@types/screeps": "^3.3.2",
     "grunt-screeps": "^1.5.0"
   },
   "scripts": {
