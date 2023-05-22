@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "grunt-screeps": "^1.5.0"
+  }
+}
