@@ -4,5 +4,8 @@
   },
   "dependencies": {
     "grunt-screeps": "^1.5.0"
+  },
+  "scripts": {
+    "gogo-default": "npx tsc && grunt screeps"
   }
 }

@@ -15,3 +15,7 @@ Configure your default screeps branch in screeps.json file. To upload js files f
 To upload to different branch use:
 
 ```grunt screeps --branch=<branch-name>```
+
+Use script to compile and push to default branch in one go:
+
+```npm run gogo-default```
