@@ -1,5 +1,7 @@
 {
   "devDependencies": {
+    "grunt-contrib-clean": "^2.0.1",
+    "grunt-contrib-copy": "^1.0.0",
     "typescript": "^5.0.4"
   },
   "dependencies": {
@@ -7,6 +9,6 @@
     "grunt-screeps": "^1.5.0"
   },
   "scripts": {
-    "gogo-default": "npx tsc && grunt screeps"
+    "gogo": "npx tsc && grunt"
   }
 }
